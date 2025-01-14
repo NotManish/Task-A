@@ -22,4 +22,11 @@ JavaScript: Used for interactivity and functionality of the slider.
 
 ## Future Improvements
  1. Add responsiveness to make the vertical slider work on all screen sizes.
+
+
  
+## Provide a live demo link:
+- https://task-6ezmdalqk-manishh-shresthas-projects.vercel.app
+
+## Time Spent on the Project:
+- Approximately 6 hours.
