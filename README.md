@@ -25,7 +25,7 @@ JavaScript: Used for interactivity and functionality of the slider.
 
 
  
-## Provide a live demo link:
+## Live demo link:
 - https://task-6ezmdalqk-manishh-shresthas-projects.vercel.app
 
 ## Time Spent on the Project:
