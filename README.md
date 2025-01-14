@@ -26,7 +26,7 @@ JavaScript: Used for interactivity and functionality of the slider.
 
  
 ## Live demo link:
-- https://task-6ezmdalqk-manishh-shresthas-projects.vercel.app
+- https://task-a-git-main-manishh-shresthas-projects.vercel.app/
 
 ## Time Spent on the Project:
 - Approximately 6 hours.
